@@ -1,3 +1,7 @@
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.txt] file for details.
+
 # seat_count_tracker
 The Seat Count Tracker Telegram Bot is a Python script that leverages the RapidAPI and Telegram API to monitor seat availability on specific train routes. This tool allows users to set a threshold for seat availability, and when the count falls below the specified limit, the bot sends real-time notifications via Telegram
 
@@ -45,6 +49,7 @@ python seat_count_tracker.py
 
 
 ![Telegram Notification](ss-1.jpg)
+
 
 
 
