@@ -43,7 +43,8 @@ Run the script with the following command:
 ```sh
 python seat_count_tracker.py
 
-![ss-1](https://github.com/krishna0306/seat_count_tracker/assets/94451390/1f883d8d-d65c-4e8a-aba8-cb2d3faa5348)
+
+![Telegram Notification](ss-1.jpg)
 
 
 
